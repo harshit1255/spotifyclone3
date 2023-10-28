@@ -311,7 +311,7 @@ h2 {
     }
     .box2
     {
-        min-width: 100vw;
+        min-width: 100%;
     }
 
     .card {
