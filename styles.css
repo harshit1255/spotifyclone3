@@ -317,6 +317,7 @@ h2 {
     .card {
         width: 2.592rem;
         height: 1rem;
+        gap: 0.;
 
     }
 
@@ -332,6 +333,7 @@ h2 {
 
     .card span {
         font-size: 0.2rem;
+        padding-left: 0.1rem;
     }
 
     .show-cards {
